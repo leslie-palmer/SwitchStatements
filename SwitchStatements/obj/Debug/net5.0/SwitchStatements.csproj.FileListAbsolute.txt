@@ -1,0 +1,16 @@
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\refint\SwitchStatements.dll
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache
+C:\Users\transfats\repos\SwitchStatements\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll
